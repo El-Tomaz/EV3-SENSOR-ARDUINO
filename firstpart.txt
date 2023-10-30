@@ -1,0 +1,322 @@
+********************************************************************************
+Obsolete PIO Core v6.1.10 is used (previous was 6.1.11)
+Please remove multiple PIO Cores from a system:
+https://docs.platformio.org/en/latest/core/installation/troubleshooting.html
+********************************************************************************
+--- Terminal on /dev/ttyACM0 | 57600 8-N-1
+--- Available filters and text transformations: colorize, debug, default, direct, hexlify, log2file, nocontrol, printable, send_on_enter, time
+--- More details at https://bit.ly/pio-monitor-filters
+--- Quit: Ctrl+C | Menu: Ctrl+T | Help: Ctrl+T followed by Ctrl+H
+
+
+40  type
+1D  T = 1D
+A2  Checksum
+49  Modes
+5   payload -> 6 modos 
+2   payload -> 3 modos mostrados
+B1  checksum
+52  Speed
+0   payload
+E1  payload 57600
+0   payload
+0   payload
+4C  checksum
+9D  Name    mode = 5
+0   Infobyte
+43  payload
+4F  payload
+4C  payload
+2D  payload
+43  payload
+41  payload
+4C  payload
+0   payload
+41  checksum
+9D  raw
+1   Infobyte    
+0   L
+0   L
+0   L
+0   L
+0   H
+FF  H
+7F  H
+47  H
+A4  checksum
+9D  SI
+3   Infobyte
+0   L
+0   L
+0   L
+0   L
+0   H
+FF  H
+7F  H
+47  H
+A6  checksum
+95  Format 
+80  Infobyte
+4   S
+1   T
+5   F
+0   D
+EA  checksum
+9C  Name    mode: 4
+0   Infobyte
+52  string
+47  string
+42  string
+2D  string
+52  string
+41  string
+57  string
+0   string
+5D  checksum
+9C  raw
+1   Infobyte
+0   L
+0   L
+0   L
+0   L
+0   H
+C   H
+7F  H
+44  H
+55  checksum
+9C  SI  
+3   Infobyte
+0   L
+0   L
+0   L
+0   L
+0   H
+C   H
+7F  H
+44  H
+57  checksum
+94  Format
+80  Infobyte
+3   S
+1   T
+4   F
+0   D
+ED  checksum
+9B  Name    mode = 3
+0   Infobyte
+52  string
+45  string
+46  string
+2D  string
+52  string
+41  string
+57  string
+0   string
+5C  Checksum
+9B  raw
+1   Infobyte
+0   L
+0   L   
+0   L
+0   L
+0   H
+C   H
+7F  H
+44  H   
+52  checksum
+9B  SI
+3   Infobyte
+0   L
+0   L   
+0   L
+0   L
+0   H
+C   H
+7F  H
+44  H
+50  checksum
+93  Format
+80  Infobyte
+2   S
+1   F
+4   T
+0   D
+EB checksum
+A2  Name MODE = 2
+0   Infobyte
+43  string
+4F  ...
+4C
+2D
+43
+4F
+4C
+4F  string
+52  
+0
+0
+0
+0
+0
+0
+0   string
+6D  checksum
+9A  raw
+1   Infobyte
+0   L
+0   L
+0   L
+0   L
+0   H
+0   H
+0   H
+41  H
+25  checksum
+9A  SI
+3   Infobyte
+0   L
+0   L
+0   L
+0   L
+0   H
+0   H
+0   H
+41  H
+27  checksum
+9A  SYMBOL
+4   Infobyte
+63  string
+6F  ...
+6C
+0
+0
+0
+0
+0   string
+1   checksum
+92  Format
+80  Infobyte  
+1   S
+0   T
+2   F
+0   D
+EE  checksum
+A1  Name MODE 1
+0   Infobyte
+43  string
+4F  ...
+4C
+2D
+41
+4D
+42
+49
+45
+4E
+54
+0
+0
+0
+0
+0   string
+6B  checksum
+99  raw
+1   Infobyte
+0   L
+0   L
+0   L
+0   L
+0   H
+0   H
+C8  H
+42  H
+ED  checksum
+99  SI
+3   Infobyte
+0   L
+0   L
+0   L
+0   L
+0   H
+0   H
+C8  H
+42  H
+EF  Checksum
+99  SYMBOL
+4   Infobyte
+70  string
+63  ...
+74
+0
+0
+0
+0
+0   string
+5   checksum
+91  Format
+80  Infobyte
+1   S
+0   T
+3   F
+0   D
+EC  checksum
+A0  Name MODE = 0
+0   Infobyte
+43  string
+4F  ...
+4C
+2D
+52
+45
+46
+4C
+45
+43
+54
+0
+0
+0
+0
+0   string
+7D  checksum
+98  raw
+1   Infobyte
+0   L 
+0   ...
+0   
+0   L
+0   H
+0   ...
+C8  
+42  H
+EC  checksum
+98  SI
+3   Infobyte
+0   L 
+0   ...
+0   ...
+0   L
+0   H
+0   H
+C8  H
+42  H   
+EE  checksum
+98  SYMBOL
+4   Infobyte
+70  string
+63  ...
+74
+0
+0
+0
+0
+0   string
+4   checksum
+90  Format
+80  Infobyte
+1   S  
+0   T
+3   F
+0   D
+ED  checksum
+4   ack
